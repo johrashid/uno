@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x24D9BfC0954F095809D1482EA9FCb48892788833",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x4b5d9fb96e5a64067cce2ef72f18775f1f6c2844",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "RareAbductions",
+  "SYMBOL": "ABT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rareabductontest",
+  "SHOW_BACKGROUND": true
+}
